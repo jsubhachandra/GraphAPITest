@@ -1,1 +1,1 @@
-Integrate with MS office 365 ans share point 
+Integrate with MS office 365 and share point 
